@@ -1,6 +1,6 @@
 ## Namaskar! Welcome to my GitHub Page!
-Born and brought up in Navi Mumbai,currently pursuing my undergrad in ECE , I specialise in **R** and **Python**
-.I am an aspiring 'coder'.I am learning to become a data scienctist.
+Born and brought up in Mumbai, currently pursuing my undergrad in ECE , I specialise in **R** and **Python**
+.I am an aspiring `coder`.I am learning to become a data scienctist.
 
 
 ```markdown
