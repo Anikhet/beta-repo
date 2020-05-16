@@ -1,6 +1,6 @@
 ## Namaskar! Welcome to my GitHub Page!
 Born and brought up in Mumbai, currently pursuing my undergrad in ECE , I specialise in **R** and **Python**
-.I am an aspiring `coder`.I am learning to become a data scienctist.Currently learning `DSA`,`Kotlin`,`ML`,`Deep Learning`,`AI`,`Big Data`.
+.I am an aspiring `coder`.I am learning to become a `_data scienctist_` .Currently learning `DSA`,`Kotlin`,`ML`,`Deep Learning`,`AI`,`Big Data`.
 
 
 ```markdown
