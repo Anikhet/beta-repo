@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Page!
-I am 3rd year ECE student in Mumbai.I am an aspiring coder.I am learning to become a data scienctist.I have specialised in **R** and **Python**.
+I am a 3rd year ECE student from Mumbai.I am an aspiring coder.I am learning to become a data scienctist.I have specialised in **R** and **Python**.
 
 ### Markdown
 
