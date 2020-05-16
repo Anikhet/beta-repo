@@ -1,9 +1,7 @@
 ## Namaskar! Welcome to my GitHub Page!
-I am a 3rd year ECE student from Mumbai.I am an aspiring coder.I am learning to become a data scienctist.I have specialised in **R** and **Python**.
+Born and brought up in Navi Mumbai,currently pursuing my undergrad in ECE , I specialise in **R** and **Python**
+.I am an aspiring 'coder'.I am learning to become a data scienctist.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
