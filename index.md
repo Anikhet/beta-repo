@@ -1,6 +1,6 @@
 ## Hi, Welcome to my GitHub Page!
-Born and brought up in Mumbai, currently pursuing my undergrad in ECE , I specialise in **Python**
-.I am an aspiring `coder`.Currently learning `DSA` and `data science`.
+
+Born and brought up in Navi Mumbai, currently pursuing my Master's in Computer Science at RIT, I specialise in **Python** . Completed courses on Advanced Object Oriented Programming and Computational Problem Solving. Currently pursuing Foundations of Algorithms, Big Data and AI.
 
 
 ```markdown
